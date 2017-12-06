@@ -27,19 +27,20 @@ This a Java application focused on Graph Problem, to solve this problem was used
 ```
 The expected output is:
 
-> Output #1: 5
-> Output #2: NO SUCH ROUTE
-> Output #3: 10
-> Output #4: 19
-> Output #5: 5 
-> Output #6: 3
-> Output #7: 6
-> Output #8: 2
-> Output #9: 5
-> Output #10: 6 
-> Output #11: 27
-> Output #12: 137
-
+```sh
+Output #1: 5
+Output #2: NO SUCH ROUTE
+Output #3: 10
+Output #4: 19
+Output #5: 5
+Output #6: 3
+Output #7: 6
+Output #8: 2
+Output #9: 5
+Output #10: 6
+Output #11: 27
+Output #12: 137
+```
 ### Tech
 This application uses only:
 
