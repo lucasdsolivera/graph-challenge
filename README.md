@@ -51,6 +51,8 @@ This application uses only:
 
 ### Todos
 
+ - Find a better way to print results
+ - Create package printer and move the ExamplePrinter class
  - Refactor GraphService class
  - Write more tests
  
